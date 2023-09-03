@@ -1,4 +1,4 @@
-# ansible On Linux Via Widnows Jumphost
+# Connect Linux server with ansible Via Widnows Jumphost
 
 ## Setting up OpenSSH on windows jumphost/baston host
 
